@@ -5,3 +5,4 @@ Git tracks changes of files.
 A new line for push test.
 Create a new branch is quick and simple.
 Merge..
+stash.
